@@ -16,6 +16,7 @@ import com.google.android.gms.vision.barcode.Barcode;
 
 import java.util.Map;
 
+// Added new FlutterFragmentActivity Here
 import io.flutter.embedding.android.FlutterFragmentActivity;
 
 import io.flutter.embedding.engine.plugins.FlutterPlugin;
